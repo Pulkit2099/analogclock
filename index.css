@@ -6,7 +6,8 @@
     width: 40vw;
     background:url(clock.png) no-repeat;
     background-size: 100%;
-}  
+} 
+//sssnun
 #hour, #minute, #second{
     position:absolute;
     background:black;
